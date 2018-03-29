@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="cucha.com.br.featureb">
+
+    <application
+        android:theme="@style/AppTheme">
+        <activity android:name=".BActivity">
+            <intent-filter>
+                <action android:name="cucha.com.br.ACTION_B" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

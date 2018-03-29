@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/analytics/analytics.iml" filepath="$PROJECT_DIR$/analytics/analytics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baserouter/baserouter.iml" filepath="$PROJECT_DIR$/baserouter/baserouter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baserouter/baserouter.iml" filepath="$PROJECT_DIR$/baserouter/baserouter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fakeapp/fakeapp.iml" filepath="$PROJECT_DIR$/fakeapp/fakeapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/featurea/featurea.iml" filepath="$PROJECT_DIR$/featurea/featurea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/featureb/featureb.iml" filepath="$PROJECT_DIR$/featureb/featureb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/featurec/featurec.iml" filepath="$PROJECT_DIR$/featurec/featurec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/featured/featured.iml" filepath="$PROJECT_DIR$/featured/featured.iml" />
+      <module fileurl="file://$PROJECT_DIR$/featuree/featuree.iml" filepath="$PROJECT_DIR$/featuree/featuree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/featuref/featuref.iml" filepath="$PROJECT_DIR$/featuref/featuref.iml" />
+      <module fileurl="file://$PROJECT_DIR$/featureg/featureg.iml" filepath="$PROJECT_DIR$/featureg/featureg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/featureh/featureh.iml" filepath="$PROJECT_DIR$/featureh/featureh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/featurei/featurei.iml" filepath="$PROJECT_DIR$/featurei/featurei.iml" />
+      <module fileurl="file://$PROJECT_DIR$/featurej/featurej.iml" filepath="$PROJECT_DIR$/featurej/featurej.iml" />
+      <module fileurl="file://$PROJECT_DIR$/featurek/featurek.iml" filepath="$PROJECT_DIR$/featurek/featurek.iml" />
+      <module fileurl="file://$PROJECT_DIR$/featurel/featurel.iml" filepath="$PROJECT_DIR$/featurel/featurel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/featurem/featurem.iml" filepath="$PROJECT_DIR$/featurem/featurem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/featuren/featuren.iml" filepath="$PROJECT_DIR$/featuren/featuren.iml" />
+      <module fileurl="file://$PROJECT_DIR$/featureo/featureo.iml" filepath="$PROJECT_DIR$/featureo/featureo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/featurep/featurep.iml" filepath="$PROJECT_DIR$/featurep/featurep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logger/logger.iml" filepath="$PROJECT_DIR$/logger/logger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multimodules.iml" filepath="$PROJECT_DIR$/multimodules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/router/router.iml" filepath="$PROJECT_DIR$/router/router.iml" />
+      <module fileurl="file://$PROJECT_DIR$/router/router.iml" filepath="$PROJECT_DIR$/router/router.iml" />
+      <module fileurl="file://$PROJECT_DIR$/subscription/subscription.iml" filepath="$PROJECT_DIR$/subscription/subscription.iml" />
+      <module fileurl="file://$PROJECT_DIR$/themes/themes.iml" filepath="$PROJECT_DIR$/themes/themes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user/user.iml" filepath="$PROJECT_DIR$/user/user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/widgets/widgets.iml" filepath="$PROJECT_DIR$/widgets/widgets.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="cucha.com.br.featurec">
+
+    <application>
+        <activity android:name=".CActivity">
+            <intent-filter>
+                <action android:name="cucha.com.br.ACTION_C" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyCXTH2DDOS-W8stim_VesHZX90AToQ9JRI
+" />
+    </application>
+
+</manifest>
